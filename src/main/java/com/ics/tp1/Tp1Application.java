@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Tp1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Tp1Application.class, args);
+		System.out.println("Ejercicio 2A");
 	}
 }
