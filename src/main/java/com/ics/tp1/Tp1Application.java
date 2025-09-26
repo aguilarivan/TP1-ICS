@@ -11,6 +11,5 @@ public class Tp1Application {
 		System.out.println("Ejercicio 2CDE");
 		System.out.println("Ejercicio 2FG");
 		System.out.println("Ejercicio 2HIJ-A");
-		System.out.println("Ejercicio 2HIJ-B");
 	}
 }
