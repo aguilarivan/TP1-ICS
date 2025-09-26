@@ -4,6 +4,8 @@ El formato sigue [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
+### Añadido
+- README.md con descripción del proyecto, guía de ejecución, respuestas a consignas, autores y licencia.
 
 ## [1.1.0] - 2025-09-26
 ### Añadido
