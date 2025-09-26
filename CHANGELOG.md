@@ -5,6 +5,7 @@ Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 ### Añadido
+- Segunda parte (B) de la nueva funcionalidad (exercise-2hij).
 - Primera parte (A) de la nueva funcionalidad (exercise-2hij).
 
 ## [1.0.1] - 2025-09-26
@@ -13,8 +14,8 @@ Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [1.0.0] - 2025-09-25
 ### Añadido
-- Mensaje en consola "Ejercicio 2A" para la feature 2A.
 - Ajustes menores de configuración y documentación.
+- Mensaje en consola "Ejercicio 2A" para la feature 2A.
 
 ## [0.1.0] - 2025-09-25
 ### Añadido
