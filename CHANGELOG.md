@@ -6,6 +6,8 @@ Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 ## [Unreleased]
 ### Añadido
 - Primera parte (A) de la nueva funcionalidad (exercise-2hij).
+### Eliminado
+- Revertida la modificación B de la nueva funcionalidad (exercise-3hij).
 
 ## [1.0.1] - 2025-09-26
 ### Corregido
