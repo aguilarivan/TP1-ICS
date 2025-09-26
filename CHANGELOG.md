@@ -6,6 +6,10 @@ Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 ## [Unreleased]
 - (Aquí se agregan futuros cambios que se estén desarrollando en develop, no incluidos en la release 1.0.0)
 
+## [1.0.1] - 2025-09-26
+### Corregido
+- Bug detectado en producción (exercise-2fg).
+
 ## [1.0.0] - 2025-09-25
 ### Añadido
 - Mensaje en consola "Ejercicio 2A" para la feature 2A.

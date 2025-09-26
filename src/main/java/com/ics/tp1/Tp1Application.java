@@ -9,5 +9,6 @@ public class Tp1Application {
 		SpringApplication.run(Tp1Application.class, args);
 		System.out.println("Ejercicio 2A");
 		System.out.println("Ejercicio 2CDE");
+		System.out.println("Ejercicio 2FG");
 	}
 }
