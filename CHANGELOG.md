@@ -4,10 +4,12 @@ El formato sigue [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
+
+## [1.1.0] - 2025-09-26
 ### Añadido
 - Primera parte (A) de la nueva funcionalidad (exercise-2hij).
 ### Eliminado
-- Revertida la modificación B de la nueva funcionalidad (exercise-3hij).
+- Revertida la modificación B de la nueva funcionalidad (exercise-2hij).
 
 ## [1.0.1] - 2025-09-26
 ### Corregido
